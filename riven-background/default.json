@@ -7,5 +7,6 @@
   "duration": 6.0,
   "bundle": "default-frames.bin",
   "sha256": "73c4f2131a7091f774865981a3d92d7f5a018087006b9f904ad9a8be1add3489",
-  "bytes": 1111210
+  "bytes": 1111210,
+  "sha256Base64": "eb203b713575ae5ceef5217e402a71cbb52d6efbd321308256f04422a7d76e05"
 }
