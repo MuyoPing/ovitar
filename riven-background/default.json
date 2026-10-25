@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "fps": 24,
+  "count": 144,
+  "width": 360,
+  "height": 640,
+  "duration": 6.0,
+  "bundle": "default-frames.bin",
+  "sha256": "73c4f2131a7091f774865981a3d92d7f5a018087006b9f904ad9a8be1add3489",
+  "bytes": 1111210
+}
